@@ -1,0 +1,16 @@
+C:\Users\davy3\Desktop\26_kv\target\debug\deps\prost_build-0b668efbec80eec2.rmeta: C:\Users\davy3\.cargo\registry\src\github.com-1ecc6299db9ec823\prost-build-0.8.0\src\lib.rs C:\Users\davy3\.cargo\registry\src\github.com-1ecc6299db9ec823\prost-build-0.8.0\src\ast.rs C:\Users\davy3\.cargo\registry\src\github.com-1ecc6299db9ec823\prost-build-0.8.0\src\code_generator.rs C:\Users\davy3\.cargo\registry\src\github.com-1ecc6299db9ec823\prost-build-0.8.0\src\extern_paths.rs C:\Users\davy3\.cargo\registry\src\github.com-1ecc6299db9ec823\prost-build-0.8.0\src\ident.rs C:\Users\davy3\.cargo\registry\src\github.com-1ecc6299db9ec823\prost-build-0.8.0\src\message_graph.rs C:\Users\davy3\.cargo\registry\src\github.com-1ecc6299db9ec823\prost-build-0.8.0\src\path.rs
+
+C:\Users\davy3\Desktop\26_kv\target\debug\deps\libprost_build-0b668efbec80eec2.rlib: C:\Users\davy3\.cargo\registry\src\github.com-1ecc6299db9ec823\prost-build-0.8.0\src\lib.rs C:\Users\davy3\.cargo\registry\src\github.com-1ecc6299db9ec823\prost-build-0.8.0\src\ast.rs C:\Users\davy3\.cargo\registry\src\github.com-1ecc6299db9ec823\prost-build-0.8.0\src\code_generator.rs C:\Users\davy3\.cargo\registry\src\github.com-1ecc6299db9ec823\prost-build-0.8.0\src\extern_paths.rs C:\Users\davy3\.cargo\registry\src\github.com-1ecc6299db9ec823\prost-build-0.8.0\src\ident.rs C:\Users\davy3\.cargo\registry\src\github.com-1ecc6299db9ec823\prost-build-0.8.0\src\message_graph.rs C:\Users\davy3\.cargo\registry\src\github.com-1ecc6299db9ec823\prost-build-0.8.0\src\path.rs
+
+C:\Users\davy3\Desktop\26_kv\target\debug\deps\prost_build-0b668efbec80eec2.d: C:\Users\davy3\.cargo\registry\src\github.com-1ecc6299db9ec823\prost-build-0.8.0\src\lib.rs C:\Users\davy3\.cargo\registry\src\github.com-1ecc6299db9ec823\prost-build-0.8.0\src\ast.rs C:\Users\davy3\.cargo\registry\src\github.com-1ecc6299db9ec823\prost-build-0.8.0\src\code_generator.rs C:\Users\davy3\.cargo\registry\src\github.com-1ecc6299db9ec823\prost-build-0.8.0\src\extern_paths.rs C:\Users\davy3\.cargo\registry\src\github.com-1ecc6299db9ec823\prost-build-0.8.0\src\ident.rs C:\Users\davy3\.cargo\registry\src\github.com-1ecc6299db9ec823\prost-build-0.8.0\src\message_graph.rs C:\Users\davy3\.cargo\registry\src\github.com-1ecc6299db9ec823\prost-build-0.8.0\src\path.rs
+
+C:\Users\davy3\.cargo\registry\src\github.com-1ecc6299db9ec823\prost-build-0.8.0\src\lib.rs:
+C:\Users\davy3\.cargo\registry\src\github.com-1ecc6299db9ec823\prost-build-0.8.0\src\ast.rs:
+C:\Users\davy3\.cargo\registry\src\github.com-1ecc6299db9ec823\prost-build-0.8.0\src\code_generator.rs:
+C:\Users\davy3\.cargo\registry\src\github.com-1ecc6299db9ec823\prost-build-0.8.0\src\extern_paths.rs:
+C:\Users\davy3\.cargo\registry\src\github.com-1ecc6299db9ec823\prost-build-0.8.0\src\ident.rs:
+C:\Users\davy3\.cargo\registry\src\github.com-1ecc6299db9ec823\prost-build-0.8.0\src\message_graph.rs:
+C:\Users\davy3\.cargo\registry\src\github.com-1ecc6299db9ec823\prost-build-0.8.0\src\path.rs:
+
+# env-dep:PROTOC=C:\\Users\\davy3\\.cargo\\registry\\src\\github.com-1ecc6299db9ec823\\prost-build-0.8.0\\third-party\\protobuf\\protoc-win32.exe
+# env-dep:PROTOC_INCLUDE=C:\\Users\\davy3\\.cargo\\registry\\src\\github.com-1ecc6299db9ec823\\prost-build-0.8.0\\third-party\\protobuf\\include
